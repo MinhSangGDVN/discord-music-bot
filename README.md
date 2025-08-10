@@ -1,7 +1,9 @@
 # Discord 24/7 Music Bot
 
 A simple Discord bot that plays music 24/7 in one or more designated voice channels. The bot uses a queue to loop through a pre-configured list of songs.
+
 [Preview Image](https://raw.githubusercontent.com/MinhSangGDVN/discord-music-bot/refs/heads/main/IMG_20250810_112452.jpg)
+
 ## Key Features
 
 * **24/7 Music Playback:** The bot automatically connects and plays music in the configured voice channels.
