@@ -29,6 +29,8 @@ This bot requires the **"Message Content Intent"** to function.
 2.  Enable the **"Message Content Intent"** toggle.
 3.  Click **"Save Changes"**.
 
+![Intents Enabled](https://raw.githubusercontent.com/MinhSangGDVN/discord-music-bot/refs/heads/main/IMG_20250810_114349.jpg)
+
 ### Step 3: Set up and Configure the Project
 
 1.  **Clone or download the source code:** Download the code to your machine.
