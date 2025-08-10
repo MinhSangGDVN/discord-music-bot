@@ -73,4 +73,4 @@ Run the bot with the following command:
 python app.py
 ```
 
-[DOWNLOAD SOURCE CODE](https://github.com/MinhSangGDVN/discord-music-bot/archive/refs/heads/main.zip)
+[DOWNLOAD SOURCE CODE 38.45MB](https://github.com/MinhSangGDVN/discord-music-bot/archive/refs/heads/main.zip)
